@@ -1,0 +1,8 @@
+setup.py
+background_remover.egg-info/PKG-INFO
+background_remover.egg-info/SOURCES.txt
+background_remover.egg-info/dependency_links.txt
+background_remover.egg-info/requires.txt
+background_remover.egg-info/top_level.txt
+bglib/__init__.py
+bglib/remover.py

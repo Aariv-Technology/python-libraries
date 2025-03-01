@@ -1,0 +1,8 @@
+setup.py
+bg_remove.egg-info/PKG-INFO
+bg_remove.egg-info/SOURCES.txt
+bg_remove.egg-info/dependency_links.txt
+bg_remove.egg-info/requires.txt
+bg_remove.egg-info/top_level.txt
+bglib/__init__.py
+bglib/remover.py

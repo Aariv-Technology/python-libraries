@@ -1,0 +1,6 @@
+Metadata-Version: 2.2
+Name: bg_remove
+Version: 0.2.0
+Requires-Dist: rembg
+Requires-Dist: pillow
+Dynamic: requires-dist

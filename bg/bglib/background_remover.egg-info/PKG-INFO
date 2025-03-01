@@ -1,0 +1,6 @@
+Metadata-Version: 2.2
+Name: background_remover
+Version: 0.1.0
+Requires-Dist: rembg
+Requires-Dist: pillow
+Dynamic: requires-dist
